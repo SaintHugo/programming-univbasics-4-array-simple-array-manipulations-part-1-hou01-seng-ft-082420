@@ -12,12 +12,12 @@ end
 
 def pop_with_args
 
-end using_shift
+end 
 
-def
+def defusing_shift
 
 end
 
-def
+def shift_with_args
 
 end
